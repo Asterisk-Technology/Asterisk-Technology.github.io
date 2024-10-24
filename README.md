@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="asterisk_logo.pngx" alt="Asterisk* Tech. Logo" onerror\="\alert\(\2\)\" />
+  <img src="asterisk_logo.png" alt="Asterisk* Tech. Logo" />
 </p>
